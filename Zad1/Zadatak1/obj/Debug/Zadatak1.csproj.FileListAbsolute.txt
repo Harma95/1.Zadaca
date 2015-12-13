@@ -1,0 +1,6 @@
+C:\Users\Luka\Desktop\C#\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\Luka\Desktop\C#\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\Luka\Desktop\C#\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Luka\Desktop\C#\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Desktop\C#\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\Luka\Desktop\C#\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
